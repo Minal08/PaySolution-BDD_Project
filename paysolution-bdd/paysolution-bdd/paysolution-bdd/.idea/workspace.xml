@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="307e8852-ce0b-4f2e-98f4-8180f22231c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/main/java/204/form/xfp/net/jadu/logs/myLogs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/main/java/net/jadu/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/main/java/net/jadu/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/main/java/net/jadu/loadproperty/LoadProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/main/java/net/jadu/pages/Pages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/main/java/net/jadu/utility/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/java/net/jadu/cucumber/CukeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/java/net/jadu/cucumber/HookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/java/net/jadu/mystepdefs/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/resources/extendreport/extend.config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/resources/featurefile/registrationpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/resources/propertyfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/src/test/resources/propertyfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/Extent_Reports/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/classes/net/jadu/basepage/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/classes/net/jadu/browserselector/BrowserSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/classes/net/jadu/loadproperty/LoadProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/classes/net/jadu/pages/Pages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/classes/net/jadu/utility/Utilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/cucumber-report/cucumber.html/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/cucumber-report/cucumber.html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/cucumber-report/cucumber.html/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/cucumber-report/cucumber.html/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/cucumber-report/cucumber.html/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/test-classes/extendreport/extend.config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/test-classes/featurefile/registrationpage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/test-classes/net/jadu/cucumber/CukeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/test-classes/net/jadu/cucumber/HookTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/test-classes/propertyfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../jadu-bdd-cucumber/target/test-classes/propertyfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/paysolution/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/paysolution/browserselector/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/paysolution/loadproperties/LoadProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/paysolution/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/paysolution/util/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/paysolution/cucumber/CukeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/paysolution/cucumber/HookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extendreport/extend.config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/propertyfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/propertyfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Extent_Reports/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uk/co/paysolution/basepage/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uk/co/paysolution/browserselector/BrowserSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uk/co/paysolution/loadproperties/LoadProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uk/co/paysolution/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/uk/co/paysolution/util/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/extendreport/extend.config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/propertyfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/propertyfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/uk/co/paysolution/cucumber/CukeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/uk/co/paysolution/cucumber/HookTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="23nTNzjnqe0dhIw6xcxogF1yIsJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../jadu-bdd-cucumber" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\paysolution-bdd\paysolution-bdd\paysolution-bdd\src\test\resources\propertyfile" />
+      <recent name="C:\Users\User\IdeaProjects\paysolution-bdd\paysolution-bdd\paysolution-bdd\src\test\resources\featurefile" />
+      <recent name="C:\Users\User\IdeaProjects\paysolution-bdd\paysolution-bdd\paysolution-bdd\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\paysolution-bdd\paysolution-bdd\paysolution-bdd\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="uk.co.paysolution" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CukeTest">
+    <configuration name="Scenario: Verify User able to fill Sign up form successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/featurefile/login.feature" />
+      <option name="GLUE" value="uk.co.paysolution.cucumber uk.co.paysolution.mystepdef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="paysolution-bdd" />
+      <option name="NAME_FILTER" value="^Verify User able to fill Sign up form successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify User able to fill Sign up form successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify User able to fill Sign up form successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paysolution-bdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.paysolution.mystepdef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.paysolution.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.paysolution.cucumber.CukeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukeTest" />
+        <item itemvalue="Cucumber Java.Scenario: Verify User able to fill Sign up form successfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="307e8852-ce0b-4f2e-98f4-8180f22231c9" name="Changes" comment="" />
+      <created>1642368816824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642368816824</updated>
+      <workItem from="1642368818227" duration="3797000" />
+      <workItem from="1642424349394" duration="6458000" />
+      <workItem from="1642456044191" duration="5074000" />
+      <workItem from="1642463618673" duration="4389000" />
+      <workItem from="1642468265269" duration="352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/browserselector/BrowserSelector.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/basepage/BasePage.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/basepage/BasePage.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/browserselector/BrowserSelector.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/browserselector/BrowserSelector.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/pages/LoginPage.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uk/co/paysolution/pages/LoginPage.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/uk/co/paysolution/mystepdef/StepDefTst.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
